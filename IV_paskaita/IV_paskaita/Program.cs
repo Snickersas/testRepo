@@ -10,6 +10,8 @@ namespace IV_paskaita
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Goodbye");
         }
     }
 }
