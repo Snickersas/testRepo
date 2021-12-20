@@ -17,7 +17,7 @@ namespace VII_Paskaita_Pazymiu_vidurkis
             public double  TreciasTrimestras;
             
 
-            public Pazymiai ( double pirmasTrimestras,double antrasTrimestras, double treciasTrimestras)  //ctor 2kart tab konstruktorius
+            public Pazymiai ( double pirmasTrimestras,double antrasTrimestras, double treciasTrimestras) 
            {
                 PirmasTrimestras = pirmasTrimestras;
                 AntrasTrimestras = antrasTrimestras;
